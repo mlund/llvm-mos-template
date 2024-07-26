@@ -1,3 +1,5 @@
+[![CMake](https://github.com/mlund/llvm-mos-template/actions/workflows/cmake.yml/badge.svg)](https://github.com/mlund/llvm-mos-template/actions/workflows/cmake.yml)
+
 # Template for LLVM-MOS Projects for MEGA65
 
 - [x] CMake based build.
